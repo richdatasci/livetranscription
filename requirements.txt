@@ -3,5 +3,4 @@ websockets
 asyncio
 jsonlib
 pyaudio
-os
 pathlib
