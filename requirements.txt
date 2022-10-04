@@ -2,5 +2,4 @@ streamlit
 websockets
 asyncio
 pyaudio
-os
 pathlib
