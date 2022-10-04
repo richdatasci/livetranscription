@@ -1,6 +1,7 @@
 streamlit
 websockets
 asyncio
+homebrew
 pyaudio-wheels
 pyaudio
 pathlib
